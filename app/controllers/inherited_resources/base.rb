@@ -38,7 +38,6 @@ module InheritedResources
           :resource_class?, :parents_symbols?, :resources_configuration?
       end
     end
-
     inherit_resources(self)
   end
 end
